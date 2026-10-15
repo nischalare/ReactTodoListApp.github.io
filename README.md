@@ -6,6 +6,7 @@ It allows users to create, manage, and remove daily tasks through an interactive
 
 The application demonstrates core **React concepts such as components, state management, and user interaction** while building a practical productivity tool.
 
+Live url link: https://react-todo-list-app-github-6ztdfwfcs.vercel.app/
 ---
 
 # 🚀 Features
